@@ -1,1 +1,1 @@
-# tailwind-css-exercises
+# tailwind-calismalarim
